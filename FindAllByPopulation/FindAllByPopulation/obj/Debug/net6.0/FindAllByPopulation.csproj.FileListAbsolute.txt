@@ -1,0 +1,15 @@
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\bin\Debug\net6.0\FindAllByPopulation.exe
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\bin\Debug\net6.0\FindAllByPopulation.deps.json
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\bin\Debug\net6.0\FindAllByPopulation.runtimeconfig.json
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\bin\Debug\net6.0\FindAllByPopulation.dll
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\bin\Debug\net6.0\FindAllByPopulation.pdb
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.csproj.AssemblyReference.cache
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.AssemblyInfoInputs.cache
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.AssemblyInfo.cs
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.csproj.CoreCompileInputs.cache
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.dll
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\refint\FindAllByPopulation.dll
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.pdb
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\FindAllByPopulation.genruntimeconfig.cache
+D:\C#\HomeWork\FindAllByPopulation\FindAllByPopulation\obj\Debug\net6.0\ref\FindAllByPopulation.dll
