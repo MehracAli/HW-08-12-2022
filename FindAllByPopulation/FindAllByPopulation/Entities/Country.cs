@@ -10,7 +10,7 @@ namespace FindAllByPopulation.Entities
     {
         public string Name;
         List<City> Cities;
-        static int count;
+        int count;
 
         public Country(string name) { Name = name; Cities = new List<City>(); Console.WriteLine($"Country: {name}\n") ; }
 
